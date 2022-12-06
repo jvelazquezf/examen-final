@@ -1,6 +1,6 @@
-﻿using PrimerParcial.Models;
+﻿using ExamenFinal.Models;
 
-namespace PrimerParcial.Interfaces
+namespace ExamenFinal.Interfaces
 {
     public interface IUserRepository
     {

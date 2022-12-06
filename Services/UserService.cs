@@ -1,7 +1,7 @@
-﻿using PrimerParcial.Interfaces;
-using PrimerParcial.Models;
+﻿using ExamenFinal.Interfaces;
+using ExamenFinal.Models;
 
-namespace PrimerParcial.Services
+namespace ExamenFinal.Services
 {
     public class UserService: IUserService
     {

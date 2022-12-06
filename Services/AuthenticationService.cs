@@ -1,12 +1,12 @@
 ﻿using System.IdentityModel.Tokens.Jwt;
 using System.Text;
 using Microsoft.IdentityModel.Tokens;
-using PrimerParcial.Models;
-using PrimerParcial.Interfaces;
+using ExamenFinal.Models;
+using ExamenFinal.Interfaces;
 using Microsoft.Extensions.Options;
 using System.Security.Claims;
 
-namespace PrimerParcial.Services
+namespace ExamenFinal.Services
 {
     public class AuthenticationService: IAuthenticationService
     {

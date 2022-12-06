@@ -1,10 +1,10 @@
 using Microsoft.EntityFrameworkCore;
-using PrimerParcial.Data;
-using PrimerParcial.Interfaces;
-using PrimerParcial.Models;
-using PrimerParcial.Repositories;
-using PrimerParcial.Services;
-using PrimerParcial;
+using ExamenFinal.Data;
+using ExamenFinal.Interfaces;
+using ExamenFinal.Models;
+using ExamenFinal.Repositories;
+using ExamenFinal.Services;
+using ExamenFinal;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
@@ -82,8 +82,8 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-var connectionString = builder.Configuration.GetConnectionString("PrimerParcialContext");
-builder.Services.AddDbContext<PrimerParcialContext>(options => options.UseNpgsql(connectionString));
+var connectionString = builder.Configuration.GetConnectionString("ExamenFinalContext");
+builder.Services.AddDbContext<ExamenFinalContext>(options => options.UseNpgsql(connectionString));
 
 var app = builder.Build();
 

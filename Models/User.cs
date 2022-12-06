@@ -1,4 +1,4 @@
-﻿namespace PrimerParcial.Models
+﻿namespace ExamenFinal.Models
 {
     public class User
     {     

@@ -1,4 +1,4 @@
-﻿namespace PrimerParcial
+﻿namespace ExamenFinal
 {
     public class TokenSettings
     {

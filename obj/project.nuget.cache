@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TKnqh7wF6KGE9wq89jwDZYjONr/o+yhQ/KYtAwsZxErRoLuyh0g7AOoX7oMi3X5wuT4Yf26qAglE34di3gmalw==",
+  "dgSpecHash": "9LlwAgpLopjY1hpo5sdsMamjN0+b8HzFlfHGgmY5qZk9ShHmHXevHH7FByyXhnpsRbBaFdnkhNLYY9zRojZvqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\necro\\Desktop\\JC\\PrimerParcial\\PrimerParcial.csproj",
+  "projectFilePath": "C:\\Users\\necro\\Documents\\JC\\ExamenFinal\\ExamenFinal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\necro\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\necro\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

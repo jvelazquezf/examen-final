@@ -1,8 +1,8 @@
-﻿using PrimerParcial.Models;
-using PrimerParcial.Interfaces;
+﻿using ExamenFinal.Models;
+using ExamenFinal.Interfaces;
 
 
-namespace PrimerParcial.Repositories
+namespace ExamenFinal.Repositories
 {
     public class UsersInMemoryRepository: IUserRepository
     {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\necro\\Desktop\\JC\\PrimerParcial\\PrimerParcial.csproj": {}
+    "C:\\Users\\necro\\Documents\\JC\\PrimerParcial\\PrimerParcial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\necro\\Desktop\\JC\\PrimerParcial\\PrimerParcial.csproj": {
+    "C:\\Users\\necro\\Documents\\JC\\PrimerParcial\\PrimerParcial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\necro\\Desktop\\JC\\PrimerParcial\\PrimerParcial.csproj",
+        "projectUniqueName": "C:\\Users\\necro\\Documents\\JC\\PrimerParcial\\PrimerParcial.csproj",
         "projectName": "PrimerParcial",
-        "projectPath": "C:\\Users\\necro\\Desktop\\JC\\PrimerParcial\\PrimerParcial.csproj",
+        "projectPath": "C:\\Users\\necro\\Documents\\JC\\PrimerParcial\\PrimerParcial.csproj",
         "packagesPath": "C:\\Users\\necro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\necro\\Desktop\\JC\\PrimerParcial\\obj\\",
+        "outputPath": "C:\\Users\\necro\\Documents\\JC\\PrimerParcial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\necro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,7 +91,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -103,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
